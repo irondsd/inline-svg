@@ -1,6 +1,6 @@
 {
   "name": "@irondsd/inline-svg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "InlineSVG is a TypeScript library that allows you to easily inline SVG files into your HTML or JavaScript code. It provides a simple API to load SVG files and insert them directly into the DOM, making it easier to manage and manipulate SVG graphics in web applications.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
